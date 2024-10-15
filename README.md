@@ -25,7 +25,7 @@ En el dashboard actualizado al 30 de junio de 2024 (Trimestre II) se presenta el
 # Reporte
 Luego de haber analizado la situación actual, se presenta la proyección de la implementación de la estrategia y su impacto económico en la empresa.
 
-
+![Reporte](https://github.com/user-attachments/assets/bbd5438d-475e-40c3-bc25-6725cf481d0e)
 
 # Preguntas
 En base a la data de nuestro modelo de negocio se plantean 10 preguntas directamente relacionadas con el indicador que definimos previamente.
